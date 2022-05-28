@@ -1,0 +1,1 @@
+import {default as selectionFilter} from './selection-filter'
